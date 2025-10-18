@@ -1,3 +1,5 @@
+*Ссылка на форк, если нужна: https://github.com/Ervikson/shvirtd-example-python
+
 Task 0
 
 <img width="1376" height="629" alt="HW_2_task_0" src="https://github.com/user-attachments/assets/91f80731-6a7b-4d0e-9fab-3da11ff082ed" />
