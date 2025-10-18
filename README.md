@@ -47,7 +47,8 @@ Task 6
 <img width="1727" height="1448" alt="HW_2_task_6(terraform_dive_save)" src="https://github.com/user-attachments/assets/0c3350af-e456-49f7-af22-cfbef3049daf" />
 
 Копируем bin/terraform с помощью docker cp (предварительно почистил рабочую директорию, видно на скрине)
-<img width="1727" height="1448" alt="HW_2_task_6(terraform_dive_save)" src="https://github.com/user-attachments/assets/dbf83eb6-c72d-48bb-9282-40cea3d0d9dd" />
+<img width="1796" height="1399" alt="HW_2_task_6 1(docker_cp)" src="https://github.com/user-attachments/assets/488d2afb-9f0a-40db-a9e1-9f1648fdd473" />
+
 
 
 
