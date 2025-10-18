@@ -37,4 +37,15 @@ Task 4
 Делаем запрос к БД:
 <img width="906" height="1267" alt="HW_2_task_4 (database)" src="https://github.com/user-attachments/assets/283f9c52-a36d-4567-8f53-36d8150524ba" />
 
+Task 5 (как я понял - со звездочкой, а значит не обязательное к выполнению?)
+
+Task 6
+
+Копируем bin/terraform с помощью dive и docker save
+<img width="1727" height="1448" alt="HW_2_task_6(terraform_dive_save)" src="https://github.com/user-attachments/assets/0c3350af-e456-49f7-af22-cfbef3049daf" />
+
+Копируем bin/terraform с помощью docker cp (предварительно почистил рабочую директорию, видно на скрине)
+<img width="1727" height="1448" alt="HW_2_task_6(terraform_dive_save)" src="https://github.com/user-attachments/assets/dbf83eb6-c72d-48bb-9282-40cea3d0d9dd" />
+
+
 
